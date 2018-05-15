@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	padding-left: 30px;
+}
+
+li{
+	margin: 10px;
+}
