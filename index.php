@@ -16,7 +16,8 @@
 		echo 'echec de la connection :' .$e->getMessage();
 	}
 	
-	$connexion->query("SET NAMES UTF8");//Solution encodage UTF8
+	$connexion
+	->query("SET NAMES UTF8");//Solution encodage UTF8
 ?>
 
 <!DOCTYPE html>
